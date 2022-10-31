@@ -12,4 +12,10 @@ Hi there! My name is Supraja Teki and this is my personal website.
 ![](images/landing_page_photo.jpg)
 
 
+Get to know me: 
+
 [About Me](about-me.html)
+
+[Professional Background and Resume](resume.html)
+
+[Contact](connect.html)

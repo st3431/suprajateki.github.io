@@ -1,0 +1,80 @@
+---
+title: "Professional Background"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+## Education
+
+**Columbia University Mailman School of Public Health** 
+
+MPH- Sociomedical Sciences, Chronic Disease Epidemiology, May 2023 
+
+GPA: 4.12 
+
+**Rutgers University** 
+
+BS- Public Health, Minor- Psychology, May 20201 
+
+GPA: 3.99, Honors: Summa Cum Laude 
+
+## Work Experience
+
+**KPMG** 
+
+Healthcare Advisory Intern, June 2022-August 2022 
+
+- Assisted team with deliverables such as PowerPoints and documents to be presented at client meetings.
+- Attended client meetings, both in-person and virtual, to take meeting minutes, ask questions, and participate in site observations to be used for further deliverables. 
+- Participated in KPMGs Lakehouse Advisory training and received a “celebrate great” award for my participation in trainings. 
+
+**Columbia University Mailman School of Public Health** 
+
+Core TA- Quantitative Research Methods, September 2022- December 2022 
+
+- Lead a weekly lab for first year MPH students discussing quantitative research methods within public health. 
+- Grade and give constructive feedback to students on their weekly homework. 
+- Attend weekly Core TA meetings with faculty to discuss helpful methods of advancing pedagogy techniques. 
+
+**Array Behavioral Care** 
+
+Scheduled Care Intern, June 2021-August 2021 
+
+- Reviewed and revised telehealth psychiatry focused contracts.
+- Assisted scheduled care team with troubleshooting issues within Salesforce and clinician
+credentials.
+- Attend issue tracking meetings where current scheduled care concerns are discussed and
+remedied.
+
+**Rutgers University Learning Center** 
+
+Learning Assistant, September 2020- May 2021
+
+- Prepared and facilitated discussions with students in lecture and study group sessions during assigned 160 minutes of contact time with students each week during the semester. 
+- Used effective questioning skills to engage all students in meaningful group work during study sessions. 
+- Participated in professional development workshops enabling me to become a more effective peer instructor. 
+
+
+**Mercer County Department of Human Services** 
+
+Student Intern, May 2019- August 2019 
+
+- Assisted division of Public Health by creating Zika Virus and Tuberculosis awareness packets.
+- Helped conduct public outreach programs for a healthier community within the nearby Trenton area.
+- Organized and helped distribute farmers market checks for seniors with the Nutrition department.
+
+## Skills and Languages 
+
+**Skills**
+
+SPSS, Stata, Microsoft Office, Matlab(basic)
+
+**Languages** 
+
+English (fluent), Telugu (fluent)
+
+
+[Home](index.html)
