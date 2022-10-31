@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Connect"
+      href: connect.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<supraja.teki@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/st3431/
+output:
+  html_document:
+    theme: cerulean
