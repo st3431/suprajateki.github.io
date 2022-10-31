@@ -1,0 +1,15 @@
+---
+title: "Supraja Teki"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+Hi there! My name is Supraja Teki and this is my personal website. 
+
+![](images/landing_page_photo.jpg)
+
+
+[About Me](about-me.html)
