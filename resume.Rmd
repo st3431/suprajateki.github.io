@@ -11,26 +11,25 @@ output:
 
 **Columbia University Mailman School of Public Health** <div style="text-align: right"> *New York, NY* </div>
 
-MPH- Sociomedical Sciences, Chronic Disease Epidemiology, <div style="text-align: right"> *May 2023* </div>
+MPH- Sociomedical Sciences/Chronic Disease Epidemiology <div style="text-align: right"> *May 2023* </div>
 
 GPA: 4.12
 
-Columbia Public Health Scholarship Award Recipient
+- Columbia Public Health Scholarship Award Recipient
 
 **Rutgers University** <div style="text-align: right"> *New Brunswick, NJ* </div>
 
-BS- Public Health, Minor- Psychology, <div style="text-align: right"> *May 2021* </div> 
+BS- Public Health, Minor- Psychology <div style="text-align: right"> *May 2021* </div> 
 
 GPA: 3.99
 
-Honors: Summa Cum Laude 
+- Honors: Summa Cum Laude 
 
 ## Work Experience
 
 **KPMG** <div style="text-align: right"> *New York, NY* </div>
 
 Healthcare Advisory Intern <div style="text-align: right"> *June 2022-August 2022* </div>
-
 
 - Assisted team with deliverables such as PowerPoints and documents to be presented at client meetings.
 - Attended client meetings, both in-person and virtual, to take meeting minutes, ask questions, and participate in site observations to be used for further deliverables. 
@@ -65,7 +64,7 @@ Learning Assistant <div style="text-align: right"> *September 2020- May 2021* </
 
 **Rutgers University Student Health** <div style="text-align: right"> *New Brunswick, NJ* </div>
 
-Peer Educator *January 2019-May 2021*
+Peer Educator <div style="text-align: right"> *January 2019-May 2021* </div>
 
 - Presented workshops and programs to student organizations and nearby community.
 - Workshops included time and stress management skills, improving sleep health and technology health.
@@ -84,7 +83,7 @@ Student Intern <div style="text-align: right">  *May 2019- August 2019* </div>
 
 **Edward J. Bloustein School of Planning and Public Policy Honors Research Student** 
 
-*September 2020- May 2021*
+*August 2020- May 2021*
 
 - Participated in a year-long individual research opportunity for a select        cohort of students. 
 - Assisted research mentor with tasks such as quantitative data analysis and        literature reviews.
