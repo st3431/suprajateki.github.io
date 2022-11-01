@@ -1,10 +1,9 @@
 ---
-title: "Supraja Teki"
+title: "Social Media Links"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 Let's connect! 
@@ -12,8 +11,6 @@ Let's connect!
 * [LinkedIn](https://www.linkedin.com/in/supraja-teki-70680b196/)
 
 * [GitHub](https://github.com/st3431)
-
-* [Undergrad Thesis Presentation](https://rutgers.mediaspace.kaltura.com/media/SuprajaTeki/1_opobtzom) 
 
 * Email: supraja.teki@gmail.com, supraja.teki@columbia.edu
 

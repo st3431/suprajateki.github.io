@@ -4,16 +4,17 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+  
 ---
 
 
-A little bit about me, I graduated from Rutgers University- New Brunswick in 2021 with a B.S. in Public Health and a minor in Psychology. I am currently getting my Masters in Public Health (MPH) from Columbia University's Mailman School of Public Health, where I work as a TA for Quantative Research Methods for first year MPH students. I am in the department of Sociomedical Sciences with a concentration in Chronic Disease Epidemiology. 
+Hi there! A little about me, originally from New Jersey, I graduated from Rutgers University- New Brunswick in 2021 with a B.S. in Public Health and a minor in Psychology. I am currently getting my Masters in Public Health (MPH) from Columbia University's Mailman School of Public Health, where I work as a TA for Quantitative Research Methods for first year MPH students. I am in the department of Sociomedical Sciences with a concentration in Chronic Disease Epidemiology. 
 
-Upon graduation, I will be working as a Healthcare Advisory Associate at KPMG. 
+Upon graduation, I will be working as a Healthcare Advisory Associate at KPMG.
+Learn more about what I'll be doing at [KPMG's Healthcare Advisory Team](https://home.kpmg/us/en/home/insights/2020/07/healthcare-life-sciences-strategy-practice.html) 
 
 
-![](images/about_me.JPG)
+<img src="images/about_me.jpg" style="width:75%">
 
 
 [Home](index.html)

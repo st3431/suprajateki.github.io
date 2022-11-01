@@ -1,14 +1,23 @@
-name: "Yay internet!"
+name: "Supraja Teki"
 output_dir: "."
 navbar:
   title: "Home"
+  left: 
+    - text: "About Me"
+      href: about-me.html 
+    - text: "Background"
+      href: resume.html
+    - text: "plotly"
+      href: plotly.html    
   right:
-    - text: "Connect"
-      href: connect.html
     - icon: fa-envelope fa-lg
       href: mailto:<supraja.teki@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/st3431/
+    - icon: fa-linkedin fa-lg 
+      href: https://www.linkedin.com/in/supraja-teki-70680b196/
+      
 output:
   html_document:
-    theme: cerulean
+    theme: yeti
+  

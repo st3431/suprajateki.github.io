@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+
 ---
 
 ## Education
@@ -57,6 +57,14 @@ Learning Assistant, September 2020- May 2021
 - Used effective questioning skills to engage all students in meaningful group work during study sessions. 
 - Participated in professional development workshops enabling me to become a more effective peer instructor. 
 
+**Rutgers University Student Health** 
+
+Peer Educator, January 2019-May 2021
+
+- Presented workshops and programs to student organizations and nearby community.
+- Workshops included time and stress management skills, improving sleep health and technology health.
+- Worked tabling events and community events for public outreach on relevant health issues.
+
 
 **Mercer County Department of Human Services** 
 
@@ -65,6 +73,18 @@ Student Intern, May 2019- August 2019
 - Assisted division of Public Health by creating Zika Virus and Tuberculosis awareness packets.
 - Helped conduct public outreach programs for a healthier community within the nearby Trenton area.
 - Organized and helped distribute farmers market checks for seniors with the Nutrition department.
+
+## Research Experience 
+
+**Edward J. Bloustein School of Planning and Public Policy Honors Research Student** 
+
+September 2020- May 2021
+
+- Participated in a year-long individual research opportunity for a select        cohort of students. 
+- Assisted research mentor with tasks such as quantitative data analysis and        literature reviews.
+- Presented a final research poster, oral defense, and paper at end of program.
+
+[Watch My Thesis Presentation](https://rutgers.mediaspace.kaltura.com/media/SuprajaTeki/1_opobtzom) 
 
 ## Skills and Languages 
 

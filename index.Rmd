@@ -4,18 +4,17 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+  
 ---
 
-Hi there! My name is Supraja Teki and this is my personal website. 
+Hi! My name is Supraja and welcome to my personal website. I appreciate you stopping by!
 
-![](images/landing_page_photo.jpg)
-
-
-Get to know me: 
+**Get to know me**: 
 
 [About Me](about-me.html)
 
 [Professional Background and Resume](resume.html)
 
 [Contact](connect.html)
+
+<img src="images/landing_page_photo.jpg" style="width:75%">

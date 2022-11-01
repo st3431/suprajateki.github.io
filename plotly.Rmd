@@ -1,0 +1,52 @@
+---
+title: "flexdashboard"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+  
+---
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+data("ny_noaa") 
+```
+
+#Loading and tidying the data 
+
+```{r}
+noaa_tidy = 
+  ny_noaa %>% 
+  janitor::clean_names() %>% 
+  select(-id) %>% 
+  drop_na() %>% 
+  separate(col= date, 
+           into= c("year", "month", "day")) %>% 
+  mutate(across(.cols= c(year, month, day), as.integer)) %>% 
+  mutate(month = month.name[month]) %>% 
+  mutate(prcp = prcp/10, 
+         tmax= as.integer(tmax)/10, 
+         tmin= as.integer(tmin)/10)
+
+```
+
+
+## Scatterplot 
+
+```{r}
+noaa_tidy %>% 
+  filter(year== 2005) %>% 
+  # mutate(text_label = str_c("Max Temp: C", tmax, "Min Temp: C", tmin))
+  plot_ly (
+    x= ~tmax, y= ~tmin, color= ~month, alpha= .5, 
+    type= "scatter", mode="markers")
+```
+
+## Boxplot
+
+```{r}
+
+```
+
