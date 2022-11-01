@@ -1,5 +1,5 @@
 ---
-title: "Professional Background"
+title: "Professional & Academic Background"
 output: 
   html_document:
     toc: true
@@ -9,39 +9,45 @@ output:
 
 ## Education
 
-**Columbia University Mailman School of Public Health** 
+**Columbia University Mailman School of Public Health** <div style="text-align: right"> *New York, NY* </div>
 
-MPH- Sociomedical Sciences, Chronic Disease Epidemiology, May 2023 
+MPH- Sociomedical Sciences, Chronic Disease Epidemiology, <div style="text-align: right"> *May 2023* </div>
 
-GPA: 4.12 
+GPA: 4.12
 
-**Rutgers University** 
+Columbia Public Health Scholarship Award Recipient
 
-BS- Public Health, Minor- Psychology, May 20201 
+**Rutgers University** <div style="text-align: right"> *New Brunswick, NJ* </div>
 
-GPA: 3.99, Honors: Summa Cum Laude 
+BS- Public Health, Minor- Psychology, <div style="text-align: right"> *May 2021* </div> 
+
+GPA: 3.99
+
+Honors: Summa Cum Laude 
 
 ## Work Experience
 
-**KPMG** 
+**KPMG** <div style="text-align: right"> *New York, NY* </div>
 
-Healthcare Advisory Intern, June 2022-August 2022 
+Healthcare Advisory Intern <div style="text-align: right"> *June 2022-August 2022* </div>
+
 
 - Assisted team with deliverables such as PowerPoints and documents to be presented at client meetings.
 - Attended client meetings, both in-person and virtual, to take meeting minutes, ask questions, and participate in site observations to be used for further deliverables. 
 - Participated in KPMGs Lakehouse Advisory training and received a “celebrate great” award for my participation in trainings. 
 
-**Columbia University Mailman School of Public Health** 
+**Columbia University Mailman School of Public Health** <div style="text-align: right"> *New York, NY* </div>
 
-Core TA- Quantitative Research Methods, September 2022- December 2022 
+Core TA- Quantitative Research Methods <div style="text-align: right"> *September 2022- December 2022* </div>
+
 
 - Lead a weekly lab for first year MPH students discussing quantitative research methods within public health. 
 - Grade and give constructive feedback to students on their weekly homework. 
 - Attend weekly Core TA meetings with faculty to discuss helpful methods of advancing pedagogy techniques. 
 
-**Array Behavioral Care** 
+**Array Behavioral Care** <div style="text-align: right"> *Mt Laurel, NJ* </div>
 
-Scheduled Care Intern, June 2021-August 2021 
+Scheduled Care Intern <div style="text-align: right"> *June 2021-August 2021* </div>
 
 - Reviewed and revised telehealth psychiatry focused contracts.
 - Assisted scheduled care team with troubleshooting issues within Salesforce and clinician
@@ -49,26 +55,26 @@ credentials.
 - Attend issue tracking meetings where current scheduled care concerns are discussed and
 remedied.
 
-**Rutgers University Learning Center** 
+**Rutgers University Learning Center** <div style="text-align: right"> *New Brunswick, NJ*  </div>
 
-Learning Assistant, September 2020- May 2021
+Learning Assistant <div style="text-align: right"> *September 2020- May 2021* </div>
 
 - Prepared and facilitated discussions with students in lecture and study group sessions during assigned 160 minutes of contact time with students each week during the semester. 
 - Used effective questioning skills to engage all students in meaningful group work during study sessions. 
 - Participated in professional development workshops enabling me to become a more effective peer instructor. 
 
-**Rutgers University Student Health** 
+**Rutgers University Student Health** <div style="text-align: right"> *New Brunswick, NJ* </div>
 
-Peer Educator, January 2019-May 2021
+Peer Educator *January 2019-May 2021*
 
 - Presented workshops and programs to student organizations and nearby community.
 - Workshops included time and stress management skills, improving sleep health and technology health.
 - Worked tabling events and community events for public outreach on relevant health issues.
 
 
-**Mercer County Department of Human Services** 
+**Mercer County Department of Human Services** <div style="text-align: right"> *Trenton, NJ* </div>
 
-Student Intern, May 2019- August 2019 
+Student Intern <div style="text-align: right">  *May 2019- August 2019* </div>
 
 - Assisted division of Public Health by creating Zika Virus and Tuberculosis awareness packets.
 - Helped conduct public outreach programs for a healthier community within the nearby Trenton area.
@@ -78,7 +84,7 @@ Student Intern, May 2019- August 2019
 
 **Edward J. Bloustein School of Planning and Public Policy Honors Research Student** 
 
-September 2020- May 2021
+*September 2020- May 2021*
 
 - Participated in a year-long individual research opportunity for a select        cohort of students. 
 - Assisted research mentor with tasks such as quantitative data analysis and        literature reviews.
