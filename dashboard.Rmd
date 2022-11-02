@@ -1,0 +1,68 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+
+
+```{r}
+data("ny_noaa")  
+
+noaa_tidy = 
+  ny_noaa %>% 
+  janitor::clean_names() %>% 
+  select(-id) %>% 
+  drop_na() %>% 
+  separate(col= date, 
+           into= c("year", "month", "day")) %>% 
+  mutate(across(.cols= c(year, month, day), as.integer)) %>% 
+  mutate(month = month.name[month]) %>% 
+  mutate(prcp = prcp/10, 
+         tmax= as.integer(tmax)/10, 
+         tmin= as.integer(tmin)/10)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+noaa_tidy %>% 
+  filter(year== 2005) %>% 
+   mutate(text_label = str_c("Max Temp (C):", tmax, "Min Temp (C): ", tmin)) %>% 
+  plot_ly (
+    x= ~tmax, y= ~tmin,
+    type= "scatter", mode="markers", color= ~month, text= ~text_label, alpha= .5) 
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+noaa_tidy %>%  
+  mutate(month= fct_reorder(month, tmin)) %>% 
+  plot_ly(y= ~tmin, color= ~month, type= "box", colors= "viridis")
+```
+
+### Chart C
+
+```{r}
+noaa_tidy %>%  
+  count(snow) %>%  
+  filter(snow > 0) %>%
+  plot_ly(x= ~snow, y= ~n, type= "bar", color= ~snow, colors= "viridis")
+```
+
